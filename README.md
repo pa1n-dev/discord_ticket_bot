@@ -1,10 +1,10 @@
 ### Discord ticket bot
 
-####Description:
+#### Description:
 
 This is a discord bot written in node js & discord.js
 
-####Screenshots:
+#### Screenshots:
 
 ![image](https://github.com/pa1n-dev/discord_ticket_bot/assets/74207477/f396b400-452f-4c0c-8309-51ecfa454d7c)
 
